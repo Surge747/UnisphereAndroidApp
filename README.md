@@ -22,3 +22,6 @@ The decision to invalidate one of the projects was difficult. To address this, I
 ### Key Takeaways
 
 One significant takeaway from this experience was the realization that combining separate Android applications is far more challenging than starting from scratch. Resolving the errors and integrating different parts of the project proved to be much more time-consuming and complex than initially anticipated. However, the process allowed me to enhance my skills in Firebase integration, UI design, and the implementation of advanced features, such as real-time search and secure authentication.
+
+###
+The features of the app can be viewed here https://github.com/Surge747/UnisphereAndroidApp/blob/main/items/media/features.mp4
