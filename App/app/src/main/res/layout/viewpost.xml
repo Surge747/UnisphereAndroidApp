@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Title TextView -->
+        <TextView
+            android:id="@+id/textViewTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Post Title"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <!-- Content TextView -->
+        <TextView
+            android:id="@+id/textViewContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Post content goes here. This is a multiline text view that shows the content of the post."
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:paddingBottom="8dp" />
+
+        <!-- By TextView -->
+        <TextView
+            android:id="@+id/textViewPostBy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="By: Author"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textColor="@android:color/darker_gray"
+            android:paddingBottom="16dp" />
+
+        <!-- Replies Section -->
+        <TextView
+            android:id="@+id/textViewRepliesHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Replies:"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <!-- Replies Container -->
+        <LinearLayout
+            android:id="@+id/linearLayoutReplies"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <!-- Replies will be dynamically added here -->
+        </LinearLayout>
+
+        <!-- Add Reply TextView -->
+        <TextView
+            android:id="@+id/textViewAddReply"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add a reply:"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textStyle="bold"
+            android:paddingTop="16dp"
+            android:paddingBottom="8dp" />
+
+        <!-- Add Reply EditText -->
+        <EditText
+            android:id="@+id/editTextAddReply"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Write your reply here"
+            android:inputType="textMultiLine"
+            android:gravity="top"
+            android:lines="4"
+            android:minLines="3"
+            android:maxLines="5"
+            android:background="@android:drawable/edit_text"
+            android:padding="8dp" />
+
+        <!-- Submit Button -->
+        <Button
+            android:id="@+id/buttonSubmitReply"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:layout_marginTop="8dp" />
+
+        <!-- Button Container -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="8dp">
+
+            <!-- Delete Button -->
+            <Button
+                android:id="@+id/Delete_post_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Delete" />
+
+            <!-- Edit Button -->
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

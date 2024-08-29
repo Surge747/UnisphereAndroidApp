@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <!-- Reply Content -->
+    <TextView
+        android:id="@+id/textViewReplyContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reply content goes here."
+        android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+    <!-- Reply By -->
+    <TextView
+        android:id="@+id/textViewReplyBy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="By: User"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="@android:color/darker_gray"
+        android:paddingTop="4dp" />
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "21911856769",
+    "firebase_url": "https://mackenz-d0653-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mackenz-d0653",
+    "storage_bucket": "mackenz-d0653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21911856769:android:70e63cdd52ebe7082c4f80",
+        "android_client_info": {
+          "package_name": "com.example.mackenz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdBvig3aoCpZVOAlIuDYAJP7OFOHszXTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

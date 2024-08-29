@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Settings"
+        android:id="@+id/Settings"
+        android:icon="@drawable/sharp_app_settings_alt_24"/>
+    <item android:title="Forum"
+        android:id="@+id/Forum"
+        android:icon="@drawable/sharp_book_24"/>
+    <item android:title="New Post"
+        android:id="@+id/New_Post"
+        android:icon="@drawable/baseline_add_circle_outline_24"/>
+    <item android:title="Messaging"
+        android:id="@+id/Message"
+        android:icon="@drawable/baseline_comment_24"/>
+    <item android:title="Profile"
+        android:id="@+id/Profile"
+        android:icon="@drawable/sharp_account_circle_24"/>
+</menu>

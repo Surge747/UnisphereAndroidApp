@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="chat_colour_sender">#132d48</color>
+    <color name="chat_colour_receiver">#41a8cc</color>
+    <color name="colorPrimary">#6200EE</color>  <!-- Example primary color -->
+    <color name="colorPrimaryDark">#3700B3</color>  <!-- Example primary dark color -->
+    <color name="colorAccent">#03DAC5</color>  <!-- Example accent color -->
+
+    <!-- Additional colors mentioned in the error log -->
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGray">#787878</color>
+
+</resources>

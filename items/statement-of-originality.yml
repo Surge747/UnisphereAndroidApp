@@ -1,0 +1,69 @@
+## Pledge of Academic Integrity
+<DO NOT MODIFY THE STRUCTURE OF THIS FILE>
+    
+I am committed to being a person of integrity.
+    
+I pledge, as a member of the Australian National University community,
+to abide by and uphold the standards of academic integrity outlined in
+the ANU statement on [honesty and plagiarism](http://www.anu.edu.au/students/program-administration/assessments-exams/academic-honesty-plagiarism),
+and I am aware of the relevant
+[legislation](https://www.legislation.gov.au/Details/F2021L00997),
+  and understand the consequences of me breaching those rules. I confirm that my answers to the questions below will be truthful, up to date and complete.
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+# this document has been modified for the purpose of the COMP2100/6442 group assignment.
+
+## Research
+  We may use data related to this assignment, including this statement, for research purposes to improve computing education and student experience. Your participation is entirely voluntary and any personal information will be anonymized and kept confidential. Your identity will not be disclosed in any research reports or publications. To opt out of this research, uncheck below.
+- [X] I consent to use my data for research purposes.
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely our
+  own work, with the following exceptions:
+
+code: Bottom navigation view
+  - comment: "bottom navigation view was done by this yt vid"
+    url: https://youtu.be/jOFLmKMOcK0
+    licence: fair use/educational
+code:
+    - comment: "The messaging(layout only) was done with the help of"
+      url: https://youtu.be/er-hKSt1r7E
+      licence: fair use/educational
+
+assets:
+  # NOTE: Remove the example entry below if not relevant
+  - comment: Send.png in drawable for message send was obtained online
+    url: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fsend_6532019&psig=AOvVaw18_2dlkOMERRZsyRKMSD1S&ust=1716040413429000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi89-vqlIYDFQAAAAAdAAAAABAE
+    licence: fair use/educational
+
+
+### Questions (answer before final submission):
+1. You (as a group) completed this work (tick the most appropriate option):
+  - [x] by yourself (as a group) without the help of others;
+      [X] with Gen AI tools (e.g., ChatGPT, Co-Pilot).
+      [X] using online resources (e.g., Stackoverflow, blogs)
+
+2. If not completed by yourself only, how did the use of Gen AI tools (and which ones), contribute to completing this assignment?
+  - Tool(s): ChatGPT
+  
+3. How did they contribute to the completion of this assignment?
+  -  Chatgpt contributed by helping fix errors and explaining why code was not working, also for language purposes
+
+4. How long did it take to complete this assignment (approximately, in hours)?
+  - 70 hours
+
+
+# for each member, sign by inputting your name and uid here (remove any empty "name+uid" entries)
+members:
+  - name: Zekun An
+    uid: u7693841
+  - name: Cheng Cui
+    uid: u7633136
+  - name: Madhav Krishnan
+    uid: u7735537
+  - name: Kechun Ma
+    uid: u7721335
+  - name: Ziying Zhang
+    uid: u7780416
+
+
